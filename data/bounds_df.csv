@@ -1,0 +1,3 @@
+pCut::Motor_Torque,pCut::CTRL_Position_controller::Lag_error,pCut::CTRL_Position_controller::Actual_position,pCut::CTRL_Position_controller::Actual_speed,pSvolFilm::CTRL_Position_controller::Actual_position,pSvolFilm::CTRL_Position_controller::Actual_speed,pSvolFilm::CTRL_Position_controller::Lag_error,pSpintor::VAX_speed
+-6.56030321,-1.88825798,-2039056494,-9482.57421875,193625,-20.133852,-0.91436576,0.0
+3.85687255,2.0215311,1911789016,17928.3125,1453670694,17972.0234375,3.56787967,3599.99951171
